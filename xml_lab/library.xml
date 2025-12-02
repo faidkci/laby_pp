@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="201" totalCopies="3" availableCopies="2">
+        <author>Invalid Author</author>  <!-- Неправильный порядок - author перед title -->
+        <title>Invalid Book</title>
+        <year>2023</year>
+        <category>Testing</category>
+        <price>25.00</price>
+    </book>
+    <book id="202" totalCopies="2" availableCopies="1">
+        <price>30.00</price>  <!-- Неправильный порядок - price первым -->
+        <title>Another Invalid Book</title>
+        <author>Another Author</author>
+        <year>afavxzm,vb</year>
+        <category>Testing</category>
+    </book>
+</library>
